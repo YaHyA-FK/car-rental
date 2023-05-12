@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="main">
+    <file>../images/login.jpg</file>
+    <file>../images/mainimage.jpg</file>
+    <file>../images/signuppage.jpg</file>
+  </qresource>
+</RCC>
